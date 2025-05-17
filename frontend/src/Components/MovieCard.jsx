@@ -1,5 +1,5 @@
 import React from "react";
-
+import "../css/MovieCard.css";
 function MovieCard({ movie }) {
   //  we want to pass a lot of movies so a movie prop is passed
   function onFavoriteClick() {
