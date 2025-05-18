@@ -1,0 +1,1 @@
+A context allows state to globally available to anything thats within the provided context
